@@ -29,7 +29,9 @@ universities[0], universities [4]
                 # Write a program that prints each key-value pair in the dictionary.
 
 student = {'name':'Oriol', 'Age': 23, 'Grade': 10}
-student
+print("Name:", student["name"])
+print("Age:", student["Age"])
+print("Grade:", student["Grade"])
 
 
 # Exercise 6: Tuples 
