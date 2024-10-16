@@ -6,6 +6,7 @@
         # "FizzBuzz" for multiples of both 3 and 5
         # The number itself for other numbers
     # 3. Call the Function: Call the function for numbers 1 to 20.
+    #
 
 def fizzbuzz(n):
     for i in range (n, n + 1):
