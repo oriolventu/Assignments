@@ -4,6 +4,7 @@ print('Hello, Python!')
 # Exercise 2: Create a program that:
                 # Defines two variables, a and b, with numerical values.
                 # Prints their sum, difference, product, and quotient.
+                #
 a = 7 
 b = 5
 
