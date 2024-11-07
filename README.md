@@ -3,17 +3,17 @@ This repository contains the assignments from my Python course, where I practice
 **Assignment 1 - Python Basics**
 This assignment is designed to help you get comfortable with the basics of Python. Through a series of exercises, you’ll explore essential programming concepts, including mathematical operations, data structures, conditional logic, loops, and functions.
 
-**Exercise 1: Greeting Message**
-This first exercise introduces you to displaying basic messages in Python. It helps you understand how to print text to the screen, an essential part of interacting with users.
+  - **<u>Exercise 1: Greeting Message</u>**  
+    This first exercise introduces you to displaying basic messages in Python. It helps you understand how to print text to the screen, an essential part of interacting with users.
 
-**Exercise 2: Basic Arithmetic Operations**
-In this exercise, you’ll work with numerical values and perform basic arithmetic operations. It’s a step towards understanding how variables and math operations work in Python.
+  - **Exercise 2: Basic Arithmetic Operations**
+    In this exercise, you’ll work with numerical values and perform basic arithmetic operations. It’s a step towards understanding how variables and math operations work in Python.
 
-**Exercise 3: Personalized Greeting**
-Here, you’ll use variables to create personalized messages. This exercise shows the value of variables when you need to adapt messages or data to specific inputs.
+  - **Exercise 3: Personalized Greeting**
+    Here, you’ll use variables to create personalized messages. This exercise shows the value of variables when you need to adapt messages or data to specific inputs.
 
-**Exercise 4: List of Universities**
-This exercise introduces lists in Python, a data structure that allows you to store and access multiple elements. You’ll learn how to handle collections of items and access specific elements within a list.
+  - **Exercise 4: List of Universities**
+    This exercise introduces lists in Python, a data structure that allows you to store and access multiple elements. You’ll learn how to handle collections of items and access specific       elements within a list.
 
 **Exercise 5: Dictionary of Student Info**
 This exercise involves dictionaries, a key data structure for organizing information in key-value pairs. You’ll practice creating and accessing data in a dictionary, which is useful for managing structured data.
