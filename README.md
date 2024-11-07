@@ -9,7 +9,7 @@ This repository contains the assignments from my Python course, where I practice
   - **Exercise 2. Basic Arithmetic Operations**:
     In this exercise, you’ll work with numerical values and perform basic arithmetic operations. It’s a step towards understanding how variables and math operations work in Python.
 
-  - **Exercise 3. Personalized Greeting**_
+  - **Exercise 3. Personalized Greeting**:
     Here, you’ll use variables to create personalized messages. This exercise shows the value of variables when you need to adapt messages or data to specific inputs.
 
   - **Exercise 4. List of Universities**:
