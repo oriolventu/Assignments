@@ -53,6 +53,8 @@ This repository contains the assignments from my Python course, where I practice
 
    - **Exercise 17. Simple Calculator**:
      This final exercise combines multiple concepts by creating a basic calculator. You’ll define a function that performs math operations based on user input, reinforcing your skills          with functions, data handling, and operations.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **Assignment 2: Environments and Practical Exercises**
 
