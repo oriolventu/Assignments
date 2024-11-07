@@ -1,5 +1,6 @@
 This repository contains the assignments from my Python course, where I practice different concepts and coding exercises in Python.
 
+
 **Assignment 1 - Python Basics**
 *This assignment is designed to help you get comfortable with the basics of Python. Through a series of exercises, you’ll explore essential programming concepts, including mathematical operations, data structures, conditional logic, loops, and functions.*
 
@@ -13,25 +14,25 @@ This repository contains the assignments from my Python course, where I practice
     Here, you’ll use variables to create personalized messages. This exercise shows the value of variables when you need to adapt messages or data to specific inputs.
 
   - **Exercise 4. List of Universities**:
-    This exercise introduces lists in Python, a data structure that allows you to store and access multiple elements. You’ll learn how to handle collections of items and access specific       elements within a list.
+    This exercise introduces lists in Python, a data structure that allows you to store and access multiple elements. You’ll learn how to handle collections of items and access specific elements within a list.
 
    - **Exercise 5. Dictionary of Student Info**:
-     This exercise involves dictionaries, a key data structure for organizing information in key-value pairs. You’ll practice creating and accessing data in a dictionary, which is useful       for managing structured data.
+     This exercise involves dictionaries, a key data structure for organizing information in key-value pairs. You’ll practice creating and accessing data in a dictionary, which is useful for managing structured data.
 
    - **Exercise 6. Tuples**:
      Tuples, like lists, hold multiple items, but they are immutable. This exercise helps you understand when and how to use tuples, as well as how to access individual elements.
 
    - **Exercise 7. Sets**:
-     This exercise introduces sets, a collection type that holds unique elements. You’ll practice adding, removing, and merging items, highlighting the usefulness of sets for handling          distinct values.
+     This exercise introduces sets, a collection type that holds unique elements. You’ll practice adding, removing, and merging items, highlighting the usefulness of sets for handling distinct values.
 
    - **Exercise 8. Conditional Statements**:
-     In this exercise, you’ll explore conditional statements, which allow programs to make decisions based on different conditions. You’ll see how to control the program’s flow depending       on user input.
+     In this exercise, you’ll explore conditional statements, which allow programs to make decisions based on different conditions. You’ll see how to control the program’s flow depending on user input.
 
    - **Exercise 9. For Loop**:
      Here, you’ll work with for loops to iterate over a list of items, learning how to repeat actions over a sequence in an efficient way.
 
    - **Exercise 10. While Loop**:
-     This exercise introduces the while loop, which lets you execute code repeatedly as long as a specific condition is met. It provides a different way to handle repetitive tasks              compared to for loops.
+     This exercise introduces the while loop, which lets you execute code repeatedly as long as a specific condition is met. It provides a different way to handle repetitive tasks compared to for loops.
 
    - **Exercise 11. Match Statement (Python 3.10+)**:
      Using Python’s match statement, this exercise shows how to handle specific cases or patterns, simplifying the process of matching inputs to different outcomes.
@@ -49,11 +50,12 @@ This repository contains the assignments from my Python course, where I practice
      List comprehension provides a concise way to generate new lists based on an existing one. This exercise lets you practice creating transformed lists efficiently.
 
    - **Exercise 16. Nested Data Structures**:
-     In this exercise, you’ll work with nested data structures, combining dictionaries and lists to manage more complex information. This is useful for organizing data with multiple            layers of details.
+     In this exercise, you’ll work with nested data structures, combining dictionaries and lists to manage more complex information. This is useful for organizing data with multiple layers of details.
 
    - **Exercise 17. Simple Calculator**:
-     This final exercise combines multiple concepts by creating a basic calculator. You’ll define a function that performs math operations based on user input, reinforcing your skills          with functions, data handling, and operations.
+     This final exercise combines multiple concepts by creating a basic calculator. You’ll define a function that performs math operations based on user input, reinforcing your skills with functions, data handling, and operations.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -62,17 +64,18 @@ This repository contains the assignments from my Python course, where I practice
 This assignment focuses on environments and GitHub, with practical exercises like FizzBuzz, data filtering, a simple to-do list app, and a temperature converter.
 
   - **Exercise 1. FizzBuzz**:
-    This exercise focuses on using conditional statements to create different outputs based on divisibility rules. It’s a straightforward introduction to control flow with                     conditions and loops.
+    This exercise focuses on using conditional statements to create different outputs based on divisibility rules. It’s a straightforward introduction to control flow with conditions and loops.
 
   - **Exercise 2. Basic Data Filtering:**
     Here, you’ll practice filtering specific types of data from a list. This exercise is useful for understanding how to manage and extract targeted data from a mixed collection.
 
   - **Exercise 3. Simple To-Do List**:
-    This task introduces basic list operations, like adding and displaying items, through a simple to-do list. It’s a practical exercise in managing collections and creating reusable          functions.
+    This task introduces basic list operations, like adding and displaying items, through a simple to-do list. It’s a practical exercise in managing collections and creating reusable functions.
 
   - **Exercise 4. Temperature Converter**:
-    This exercise provides experience in writing functions for unit conversions. It’s a useful example of handling calculations within a function to produce specific output                    values.
+    This exercise provides experience in writing functions for unit conversions. It’s a useful example of handling calculations within a function to produce specific output values.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
    
@@ -82,17 +85,18 @@ This assignment focuses on environments and GitHub, with practical exercises lik
 This assignment delves into Object-Oriented Programming in Python, covering classes and objects, abstraction and inheritance, and the principles of polymorphism and encapsulation, with hands-on exercises to reinforce these concepts.
 
   - **Exercise 1:**
-    This part introduces the Course class, where you’ll manage course information and enrolled students. It teaches you to work with attributes and methods to add, remove, and view           students in each course, providing a structured way to manage course data.
+    This part introduces the Course class, where you’ll manage course information and enrolled students. It teaches you to work with attributes and methods to add, remove, and view students in each course, providing a structured way to manage course data.
     
   - **Exercise 2:**
-    Here, you’ll create a Student class to handle student information and their course enrollments. This task emphasizes managing attributes and creating methods to enroll in or drop         courses, giving you a hands-on introduction to managing relationships between objects.
+    Here, you’ll create a Student class to handle student information and their course enrollments. This task emphasizes managing attributes and creating methods to enroll in or drop courses, giving you a hands-on introduction to managing relationships between objects.
 
   - **Exercise 3**:
-    This exercise involves creating a Registration class to act as the main interface for managing all students and courses. It’s focused on combining lists of objects, creating a            central hub for handling enrollments and organizing data across multiple objects.
+    This exercise involves creating a Registration class to act as the main interface for managing all students and courses. It’s focused on combining lists of objects, creating a central hub for handling enrollments and organizing data across multiple objects.
 
   - **Exercise 4**:
-    This final part introduces grades and GPA calculations, showing how to add and use data for each student’s courses. You’ll implement methods to calculate GPA based on grades,             providing experience with calculations and data retrieval across related objects.
+    This final part introduces grades and GPA calculations, showing how to add and use data for each student’s courses. You’ll implement methods to calculate GPA based on grades, providing experience with calculations and data retrieval across related objects.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -104,19 +108,19 @@ In this assignment, we're diving into scientific and numerical computing while m
     This first task helps us get a simple count of the files in the annotations folder. It’s a great intro to working with file directories using Python’s built-in libraries.
 
   - **Exercise 2. Identify Files Matching the Naming Convention:**
-    Here, we’ll filter out the files that match a specific naming format. This task lets us practice string parsing, which is super helpful when dealing with files that follow structured     naming rules.
+    Here, we’ll filter out the files that match a specific naming format. This task lets us practice string parsing, which is super helpful when dealing with files that follow structured naming rules.
 
   - **Exercise 3. Monthly and Yearly File Stats**:
     This task takes us into basic time-based analysis. We'll break down the files by month and year to see when the most data was collected and identify trends in data volume over time.
 
   - **Exercise 4. Organize Files into Monthly Folders**:
-    In this part, we’ll organize our annotations by month, creating a clean folder structure to make files easier to find. This is a hands-on way to use os and shutil for organizing data     into folders based on dates.
+    In this part, we’ll organize our annotations by month, creating a clean folder structure to make files easier to find. This is a hands-on way to use os and shutil for organizing data into folders based on dates.
 
   - **Exercise 5. Sort Files by Date**:
     Here, we’ll order the files chronologically, from the newest to the oldest. This exercise gives practice with sorting techniques based on date information extracted from file names.
 
   - **Exercise 6. Analyze Satellites**:
-    This task involves counting how many unique satellites there are, how many annotations each has, and which satellite shows up in the latest file. This is about using data parsing to      get a clearer picture of the dataset.
+    This task involves counting how many unique satellites there are, how many annotations each has, and which satellite shows up in the latest file. This is about using data parsing to get a clearer picture of the dataset.
 
   - **Exercise 7. Count Unique Regions**:
     Finally, we’ll extract and count the unique regions from our annotations. This part is useful for getting a sense of how many different geographic areas are covered in the dataset.
