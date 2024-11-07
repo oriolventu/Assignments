@@ -9,7 +9,7 @@ This repository contains the assignments from my Python course, where I practice
 <summary style="font-weight: bold; font-size: 18px; background-color: #F8CECC; padding: 10px; border-radius: 5px;">📋 Exercises</summary>
 
 - **<u>Exercise 1: Greeting Message</u>**
-<p style="color:gray; margin-left: 10px;"> This first exercise introduces you to displaying basic messages in Python. It helps you understand how to print text to the screen, an essential part of interacting with users.</p>
+    <p style="color:gray; margin-left: 10px;"> This first exercise introduces you to displaying basic messages in Python. It helps you understand how to print text to the screen, an           essential part of interacting with users.</p>
 
   - **Exercise 2: Basic Arithmetic Operations**
     In this exercise, you’ll work with numerical values and perform basic arithmetic operations. It’s a step towards understanding how variables and math operations work in Python.
