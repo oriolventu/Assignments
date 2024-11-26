@@ -1,7 +1,9 @@
 
-**Assignment 5 - Scientific Computing and File Organization with Python** 
+**Assignment 5 - Data Analysis and Serialization with Python** 
 
-In this assignment, we're diving into scientific and numerical computing while managing a folder of annotation files. We'll be using Numpy and Scipy for data handling, along with Python’s math, os, glob, and shutil libraries to explore and organize files.
+In this assignment, we work on file organization, data analysis, and serialization using Python. Through practical tasks, we leverage libraries like json, pickle, and datetime to organize and analyze annotation files efficiently.
+
+The focus is on performing operations on a dataset of annotations stored with a specific naming convention, extracting meaningful insights, and using structured formats for data storage and manipulation.
 
   - **Exercise 1. Monthly and Yearly File Stats:** Here, we calculate the number of annotations per month and year, identifying which month    has the most files. This task helps analyze temporal patterns and trends in data collection using date-based parsing.
 
