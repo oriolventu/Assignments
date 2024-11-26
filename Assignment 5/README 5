@@ -1,5 +1,5 @@
 
-**Assignment 4 - Scientific Computing and File Organization with Python**
+**Assignment 4 - Scientific Computing and File Organization with Python** 
 
 In this assignment, we're diving into scientific and numerical computing while managing a folder of annotation files. We'll be using Numpy and Scipy for data handling, along with Python’s math, os, glob, and shutil libraries to explore and organize files.
 
