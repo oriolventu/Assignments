@@ -164,7 +164,7 @@ In this assignment, we work with the **Netflix** and **Titanic** datasets to per
    The goal is to calculate trends in releases by determining the average number of titles released annually since 2010. This helps            understand how content production has evolved over the years.
 
 
-### **Titanic Dataset Exercises**
+ **Titanic Dataset Exercises**
 
    - **Analyzing Gender-Based Survival Percentages**  
    This exercise aims to compute survival rates for males and females, revealing gender-based differences in survival. It introduces key       techniques for grouping and calculating percentages.
