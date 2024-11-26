@@ -1,12 +1,31 @@
 
-**Assignment 6 - Scientific Computing and File Organization with Python** 
+**Assignment 6: Data Analysis with Pandas**
 
-In this assignment, we're diving into scientific and numerical computing while managing a folder of annotation files. We'll be using Numpy and Scipy for data handling, along with Python’s math, os, glob, and shutil libraries to explore and organize files.
+In this assignment, we work with the **Netflix** and **Titanic** datasets to perform data analysis using **Pandas**, focusing on cleaning, exploring, and extracting meaningful insights.
 
-  - **Exercise 1. Monthly and Yearly File Stats:** Here, we calculate the number of annotations per month and year, identifying which month has the most files. This task helps analyze temporal patterns and trends in data collection using date-based parsing.
+  **Netflix Dataset Exercises**
 
-  - **Exercise 2. Dictionary of Annotations by Month:** We create a dictionary where each key is a month and the value is a list of annotation names for that month. The dictionary is saved in JSON and Pickle formats to demonstrate serialization. Additionally, the task is extended to store detailed dictionaries containing the name and date of each annotation.
+   - **Identifying Missing Ratings**  
+   The goal of this exercise is to assess data quality by identifying missing values in the `rating` column. Understanding where data is        incomplete is critical for preparing datasets for analysis or visualization.
 
-  - **Exercise 3. Chronological Sorting of Annotations:** This task focuses on extracting annotations from the second half of 2024 and sorting them chronologically from the oldest to the newest. It provides practice with datetime parsing and sorting techniques.
+   - **Counting Films from 2021 by Country**  
+   This exercise focuses on filtering the dataset to retrieve specific entries. It teaches how to isolate data based on multiple conditions,    such as year and country, providing insights tailored to specific queries.
 
+   - **Calculating Fully Detailed Movies from 2020**  
+   The purpose here is to identify entries that have no missing values in 2020. This exercise highlights the importance of data completeness    for accurate analysis and decision-making.
+
+   - **Determining the Year with the Most Titles**  
+   This task is designed to explore trends in data by identifying the year with the highest number of titles. It demonstrates how to use        grouping and aggregation to uncover patterns over time.
+
+   - **Calculating the Average Releases Since 2010**  
+   The goal is to calculate trends in releases by determining the average number of titles released annually since 2010. This helps             understand how content production has evolved over the years.
+
+
+### **Titanic Dataset Exercises**
+
+   - **Analyzing Gender-Based Survival Percentages**  
+   This exercise aims to compute survival rates for males and females, revealing gender-based differences in survival. It introduces key        techniques for grouping and calculating percentages.
+
+   - **Analyzing Survival Percentages by Gender and Class**  
+   The objective is to analyze survival rates further by breaking them down by gender and passenger class, offering a more granular view of     survival disparities on the Titanic.
 
