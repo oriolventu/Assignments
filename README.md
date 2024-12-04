@@ -171,7 +171,50 @@ In this assignment, we work with the **Netflix** and **Titanic** datasets to per
 
    - **Analyzing Survival Percentages by Gender and Class**  
    The objective is to analyze survival rates further by breaking them down by gender and passenger class, offering a more granular view of    survival disparities on the Titanic.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Assignment 7: Handling Missing Data and Data Transformation**
+
+This Assignment focuses on handling missing data and performing data transformations with Pandas. It explores essential operations like extracting, merging, and manipulating data.
+
+  **Exercises**
+
+   - **Creating initials for professors**  
+   We added a new column to extract and store the initials of each professor's name.
+
+   - **Combining datasets**  
+   Two datasets were merged to consolidate professor details and the courses they teach.
+
+   - **Unifying information**  
+   A combined DataFrame was created by joining the original dataset with additional course-related data.
+
+   - **Extracting last names**  
+   Using string operations, we added a column to isolate the last name of each professor.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
+**Assignment 8: Plotting**
 
+This assignment dives into data visualization techniques using Matplotlib, Pandas, and Seaborn. You’ll learn to create insightful visualizations, from histograms and bar plots to advanced analyses like KDE and heatmaps.
+
+  **Exercises**
+
+   - **Study time by student**  
+   We identified the most dedicated student by analyzing study hours with a line plot.
+
+   - **Grade ranges**  
+   Using a histogram, we visualized grade distribution and highlighted the most common ranges.
+
+   - **Cumulative analysis**  
+   An ECDF plot helped determine what percentage of students scored below a specific threshold.
+
+   - **Grade variability by course**  
+   A strip plot revealed which courses had the most grade variability.
+  
+   - **Study time by gender**  
+   A swarm plot was used to explore the relationship between gender and study time, highlighting which gender studied more on average.
+  
+   - **Average grades by course**  
+   Using a point plot, we compared course averages and identified the top-performing course.
